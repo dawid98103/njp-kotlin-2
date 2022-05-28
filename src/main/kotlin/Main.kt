@@ -14,8 +14,3 @@ fun main(args: Array<String>) {
     person.firstName = "John"
     person.lastName = "Doe"
 }
-
-//fun multiply10(d: Double):Double {
-//    d = d * 10
-//    return d
-//}
